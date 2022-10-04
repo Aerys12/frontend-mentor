@@ -1,2 +1,2 @@
 # product-preview-card
-Frontend mentor challenges
+Frontend mentor challenge one
