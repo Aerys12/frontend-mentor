@@ -1,2 +1,2 @@
-# frontend-mentor
+# product-preview-card
 Frontend mentor challenges
